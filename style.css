@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: aliceblue;
+    margin:0 auto;
+    padding:1.5rem;
+}
+.container{
+    background-color: antiquewhite;
+    width: 600px;
+    height:400px;
+    border-radius: 2%;
+    margin: 0 auto;
+    padding: 1.2rem;
+    text-align: center;
+}
+#content{
+    background-color: azure;
+    height:300px;
+    width: 450px;
+    color: black;
+    font-size: 23px;
+}
+#counter{
+    font-size: 30px;
+    font-weight: bold;
+}
